@@ -1,6 +1,9 @@
 _repo: Choyce-Drollery-Songs-and-Sonnets-Being-a-Collection-of-Divers-Excellent-Pieces-of-Poetry-of-__60454
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Choice Drollery
+covers:
+- cover_type: archival
+  image_path: 60454-h/images/cover.jpg
 creator:
   editor:
     agent_name: Ebsworth, Joseph Woodfall
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50961
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Woodfall_Ebsworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60454#Choyce-Drollery-Songs-and-Sonnets-Being-a-Collection-of-Divers-Excellent-Pieces-of-Poetry-of-_
 gutenberg_issued: '2019-10-08'
 gutenberg_type: Text
 identifiers:
